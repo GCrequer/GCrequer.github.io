@@ -4,7 +4,7 @@ author_profile: true
 classes: wide
 title: " "
 header:
-  overlay_color: "#5e616c"
+  overlay_filter: linear-gradient(rgba(64, 64, 64, 0.7), rgba(0, 0, 0, 0.1))
   overlay_image: assets/images/view_big.jpg
     
   actions:
