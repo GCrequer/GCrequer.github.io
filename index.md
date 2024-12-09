@@ -4,13 +4,21 @@ author_profile: true
 classes: wide
 title: " "
 header:
-  overlay_filter: linear-gradient(rgba(64, 64, 64, 0.7), rgba(0, 0, 0, 0.1))
-  overlay_image: assets/images/view_big.jpg
-    
+  overlay_filter: linear-gradient(rgba(0, 0, 0, 0.1),rgba(191, 191, 191, 0.3))
+  overlay_image: assets/images/view_big.jpg 
   actions:
     - label: "<i class='fas fa-download'></i> My CV"
       url: "/docs/quick-start-guide/"
-layouts_gallery:
+
+gallery_rob:
+  - url: /assets/images/mm-layout-splash.png
+    image_path: /assets/images/mm-layout-splash.png
+    alt: "splash layout example"
+  - url: /assets/images/mm-layout-single-meta.png
+    image_path: /assets/images/mm-layout-single-meta.png
+    alt: "single layout with comments and related posts"
+
+gallery_photo:
   - url: /assets/images/mm-layout-splash.png
     image_path: /assets/images/mm-layout-splash.png
     alt: "splash layout example"
@@ -20,64 +28,39 @@ layouts_gallery:
   - url: /assets/images/mm-layout-archive.png
     image_path: /assets/images/mm-layout-archive.png
     alt: "archive layout example"
-last_modified_at: 2022-05-27T11:59:26-04:00
 ---
 
-Minimal Mistakes is a flexible two-column Jekyll theme. Perfect for hosting your personal site, blog, or portfolio on GitHub or self-hosting on your own server. As the name implies --- styling is purposely minimalistic to be enhanced and customized by you :smile:.
+I’m always on the lookout for the perfect composition!
+In photography, I’m not afraid to roll on the ground in front of a bear to get the best shot (though, honestly, it’s rarely the best shot—unless you consider the best shot to be the one you get when you dare rolling on the ground in front of a bear).
+In robotics, I aim to balance control, electronics, mechanics, and technology to create well-rounded designs.
 
-{% include gallery id="layouts_gallery" caption="Examples of included layouts `splash`, `single`, and `archive`." %}
+Two references that sum up my mindset :
+<div style="text-align: center" >
+  <div style="font-size: 80%; display: inline-block; text-align: left">
+    <i>— Yeah, well don’t do it all in one go, do it in 3 days !</i>
+  </div><br/>
+  <div style="font-size: 60%; display: inline-block; text-align: right">
+    RRRrrrr!!!, by Alain Chabat
+  </div>
+</div>
+<br/>
+{% include video id="sl9pTDK8PAk" provider="youtube" %}
+<br/>
 
-[Install the Theme]({{ "/docs/quick-start-guide/" | relative_url }}){: .btn .btn--success .btn--large}
+# Interests
 
-## Notable Features
+## 🛠️ Marine Robotics: Building Smart Systems, Smartly
 
-- Bundled as a "theme gem" for easier install/upgrading.
-- Compatible with GitHub Pages.
-- Support for Jekyll's built-in Sass/SCSS preprocessor.
-- Nine different skins (color variations).
-- Several responsive layout options (single, archive index, search, splash, and paginated home page).
-- Optimized for search engines with support for [Twitter Cards](https://dev.twitter.com/cards/overview) and [Open Graph](http://ogp.me/) data
-- Optional [header images](https://mmistakes.github.io/minimal-mistakes/docs/layouts/#headers), [custom sidebars](https://mmistakes.github.io/minimal-mistakes/docs/layouts/#sidebars), [table of contents](https://mmistakes.github.io/minimal-mistakes/docs/helpers/#table-of-contents), [galleries](https://mmistakes.github.io/minimal-mistakes/docs/helpers/#gallery), related posts, [breadcrumb links](https://mmistakes.github.io/minimal-mistakes/docs/configuration/#breadcrumb-navigation-beta), [navigation lists](https://mmistakes.github.io/minimal-mistakes/docs/helpers/#navigation-list), and more.
-- Commenting support (powered by [Disqus](https://disqus.com/), [Facebook](https://developers.facebook.com/docs/plugins/comments), [Discourse](https://www.discourse.org/), [utterances](https://utteranc.es/), [giscus](https://giscus.app/), static-based via [Staticman v1 and v2](https://staticman.net/), and custom).
-- [Google Analytics](https://www.google.com/analytics/) support.
-- UI localized text in English (default), Arabic (عربي), Brazilian Portuguese (Português brasileiro), Bulgarian, Catalan, Chinese, Czech, Danish, Dutch, Finnish, French (Français), German (Deutsch), Greek, Hebrew, Hindi (हिंदी), Hungarian, Indonesian, Irish (Gaeilge), Italian (Italiano), Japanese, Kiswahili, Korean, Malayalam, Myanmar (Burmese), Nepali (Nepalese), Norwegian (Norsk), Persian (فارسی), Polish, Punjabi (ਪੰਜਾਬੀ), Romanian, Russian, Slovak, Spanish (Español), Swedish, Thai, Turkish (Türkçe), and Vietnamese.
+What excites me most about robotics is transdisciplinarity: designing mechatronic and algorithmic architecture in symbiosis.
 
-## Demo Pages
+I’m all about symbiosis at every level :
 
-| Name                                        | Description                                           |
-| ------------------------------------------- | ----------------------------------------------------- |
-| [Post with Header Image][header-image-post] | A post with a large header image. |
-| [HTML Tags and Formatting Post][html-tags-post] | A variety of common markup showing how the theme styles them. |
-| [Syntax Highlighting Post][syntax-post] | Post displaying highlighted code. |
-| [Post with a Gallery][gallery-post] | A post showing several images wrapped in `<figure>` elements. |
-| [Sample Collection Page][sample-collection] | Single page from a collection. |
-| [Categories Archive][categories-archive] | Posts grouped by category. |
-| [Tags Archive][tags-archive] | Posts grouped by tag. |
+* Interdisciplinary, for instance, considering propulsion systems based on different actuation principles (swimming by soft robotics, piezoelectric deformation...),
+* Inter-algorithmic, like exploring less hierarchical control methods, where planning and navigation are co-constrained (dynamic planning), or trajectory generation that’s co-constrained with the guidance law (I ask myself a lot of questions about the operations possible with sliding surfaces).
 
-For even more demo pages check the [posts archive][year-archive].
+I’m still a beginner in these areas, but I’ve got 60 years (hopefully) to dive deeper. So, let’s not do it all in one go, do it in 60 years!
 
----
+## 📷 Nature Photography: A Personal Journey Above All
 
-## Credits
-
-### Icons + Demo Images:
-
-- [The Noun Project](https://thenounproject.com) -- Garrett Knoll, Arthur Shlain, and [tracy tam](https://thenounproject.com/tracytam)
-- [Font Awesome](http://fontawesome.io/)
-- [Unsplash](https://unsplash.com/)
-
-### Other:
-
-- [Jekyll](https://jekyllrb.com/)
-- [jQuery](https://jquery.com/)
-- [Susy](http://susy.oddbird.net/)
-- [Breakpoint](http://breakpoint-sass.com/)
-- [Magnific Popup](http://dimsemenov.com/plugins/magnific-popup/)
-- [FitVids.JS](http://fitvidsjs.com/)
-- Greedy Navigation - [lukejacksonn](https://codepen.io/lukejacksonn/pen/PwmwWV)
-- [jQuery Smooth Scroll](https://github.com/kswedberg/jquery-smooth-scroll)
-- [Lunr](http://lunrjs.com)
-
----
-
-Minimal Mistakes is designed, developed, and maintained by Michael Rose. Just another boring, tattooed, designer from Buffalo New York.
+I believe in patience and determination. While some may aim to push further and become top-tier freelance photographers, I’m happy to travel at my own pace, taking my time with my humble entry-level DSLR.
+Change my camera? Why bother? This one’s still working fine! My photos won’t be the most stunning, nor worthy of the great naturalists. But hey... we can revisit that in 60 years!

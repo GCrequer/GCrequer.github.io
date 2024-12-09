@@ -1,8 +1,8 @@
 ---
-permalink: /about/
+permalink: /resume/
 author_profile: true
 classes: wide
-title: "About"
+title: "Resume"
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/mm-header-overlay-black-filter.jpg

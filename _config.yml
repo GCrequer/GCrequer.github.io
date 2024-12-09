@@ -115,7 +115,7 @@ analytics:
 author:
   name             : *name
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "Explorer of new ideas, I move one step at a time, without stopping 👴"
   location         : "Ile-aux-Moines, France"
   email            : #"gwendal.crequer@gmail.com"
   links:
