@@ -1,15 +1,15 @@
 ---
-permalink: /resume/
+permalink: /Resume/
 author_profile: true
 classes: wide
 title: "Resume"
 header:
-  overlay_color: "#5e616c"
-  overlay_image: /assets/images/mm-header-overlay-black-filter.jpg
+  overlay_filter: linear-gradient(rgba(0, 0, 0, 0.1),rgba(191, 191, 191, 0.3))
+  overlay_image: assets/images/view_big.jpg  
   actions:
-    - label: "<i class='fas fa-download'></i> Install now"
+    - label: "<i class='fas fa-download'></i> My CV"
       url: "/docs/quick-start-guide/"
-excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
+
 layouts_gallery:
   - url: /assets/images/mm-layout-splash.png
     image_path: /assets/images/mm-layout-splash.png
@@ -22,6 +22,14 @@ layouts_gallery:
     alt: "archive layout example"
 last_modified_at: 2022-05-27T11:59:26-04:00
 ---
+
+# Experience
+
+
+![]({{ site.url }}/assets/images/teaser.webp) {: .align-right style="width: 300px"}
+## Joint Robotics Laboratory, CNRS-AIST collaboration
+J'ai été research assistant pour une durée de 5 mois dans ce laboratoire japonais.
+
 
 Minimal Mistakes is a flexible two-column Jekyll theme. Perfect for hosting your personal site, blog, or portfolio on GitHub or self-hosting on your own server. As the name implies --- styling is purposely minimalistic to be enhanced and customized by you :smile:.
 
