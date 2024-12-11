@@ -8,7 +8,7 @@ header:
   overlay_image: assets/images/view_big.jpg  
   actions:
     - label: "<i class='fas fa-download'></i> My CV"
-      url: "/_docs/CV.pdf"
+      url: "CV.pdf"
 
 JRL:
   - image_path: /assets/images/equi_color.webp

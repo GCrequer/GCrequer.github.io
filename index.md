@@ -10,7 +10,7 @@ header:
   overlay_image: assets/images/view_big.jpg  
   actions:
     - label: "<i class='fas fa-download'></i> My CV"
-      url: "/docs/quick-start-guide/"
+      url: "CV.pdf"
 
 gallery_rob:
   - image_path: "/assets/images/bateau.webp"
