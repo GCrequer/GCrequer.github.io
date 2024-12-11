@@ -2,6 +2,7 @@
 layout: single
 author_profile: true
 classes: wide
+popup: true
 title: " "
 teaser: "/assets/images/teaser.webp"
 header:
@@ -12,67 +13,32 @@ header:
       url: "/docs/quick-start-guide/"
 
 gallery_rob:
-  - url: /assets/images/mm-layout-splash.png
-    alt: "splash layout example"
-    image_path: "/assets/images/teaser.webp"
-  - url: /assets/images/mm-layout-single-meta.png
-    alt: "single layout with comments and related posts"
-    image_path: "/assets/images/teaser.webp"
+  - image_path: "/assets/images/bateau.webp"
+  - image_path: "/assets/images/teaser.webp"
+
 
 gallery_photo:
-  - url: /assets/images/mm-layout-splash.png
-    image_path: "/assets/images/teaser.webp"
-    alt: "splash layout example"
-  - url: /assets/images/mm-layout-single-meta.png
-    image_path: "/assets/images/teaser.webp"
-    alt: "single layout with comments and related posts"
-  - url: /assets/images/mm-layout-archive.png
-    image_path: "/assets/images/teaser.webp"
-    alt: "archive layout example"
+  - url: /assets/images/bobby.webp
+    image_path: "/assets/images/bobby.webp"
 ---
 
 I’m always on the lookout for the perfect composition!
 In photography, I’m not afraid to roll on the ground in front of a bear to get the best shot (though, honestly, it’s rarely the best shot—unless you consider the best shot to be the one you get when you dare rolling on the ground in front of a bear).
 In robotics, I aim to balance control, electronics, mechanics, and technology to create well-rounded designs.
 
-Two references that sum up my mindset :
+1 citation that sums up my mindset :
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 20px; background: #ffffff; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); border-radius: 8px; overflow: hidden;">
+> <i>— Oh no, Chief, it’s a three-day walk…</i><br/>
+  <i>— Yeah, well don’t do it in one go, do it in three days !</i>
 
-  <div style="flex: 1; padding: 20px; background-color: #f0f0f0; box-sizing: border-box; text-align: center">
-    <div style="font-size: 80%; display: inline-block; text-align: left">
-      <i>— Yeah, well don’t do it all in one go, do it in 3 days !</i>
-    </div><br/>
-    <div style="font-size: 60%; display: inline-block; text-align: right">
-    RRRrrrr!!!, by Alain Chabat
-    </div>
-  </div>
+<cite>Pierre</cite> --- Chief of <i>Cheveux Propres</i> tribe, RRRrrrr!!!, by Alain Chabat
+{: .small}
 
-  <div style="flex: 1; display: flex; justify-content: center; align-items: center; background-color: #ffffff;">
-    <iframe 
-      src="https://www.youtube.com/embed/sl9pTDK8PAk" 
-      title="Heaven Sent, Doctor Who" 
-      style="width: 100%; height: 100%; max-width: 480px; max-height: 270px; border: none;" 
-      allowfullscreen>
-    </iframe>
-  </div>
-
-</div>
-
-<style>
-@media (max-width: 600px) {
-  div[style*="display: flex;"] {
-    flex-direction: column;
-  }
-}
-</style>
-
-<br/><br/>
 
 
 # Interests
 
-## 🛠️ Marine Robotics: Building Smart Systems, Smartly
+## ⛵ Marine Robotics: Building Smart Systems, Smartly
 
 What excites me most about robotics is transdisciplinarity: designing mechatronic and algorithmic architecture in symbiosis.
 
@@ -83,9 +49,11 @@ I’m all about symbiosis at every level :
 
 I’m still a beginner in these areas, but I’ve got 60 years (hopefully) to dive deeper. So, let’s not do it all in one go, let's do it in 60 years!
 
-{% include gallery id="gallery_rob" type="center" %}
+{% include gallery id="gallery_rob" caption="<u>DDBoat</u> : 2 weeks dedicated to guidance, navigation and planning exercises, in single-thread programming. <br/><u>Hydrofoil</u> : design, control, guidance and tests of an autonomous hydrofoil kayak." %}
 
 ## 📷 Nature Photography: A Personal Journey Above All
 
 I believe in patience and determination. While some may aim to push further and become top-tier freelance photographers, I’m happy to travel at my own pace, taking my time with my humble entry-level DSLR.
 Change my camera? Why bother? This one’s still working fine! My photos won’t be the most stunning, nor worthy of the great naturalists. But hey... we can revisit that in 60 years!
+
+{% include gallery id="gallery_photo" caption="*Bobby*, my best friend during my time in Colorado." %}

@@ -115,7 +115,7 @@ analytics:
 author:
   name             : *name
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Explorer of new ideas, I move one step at a time, without stopping 👴"
+  bio              : "I move forward, step by step, make mistakes, learn from them and keep going."
   location         : "Ile-aux-Moines, France"
   email            : #"gwendal.crequer@gmail.com"
   links:
@@ -136,7 +136,7 @@ author:
       url: "https://github.com/GCrequer"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/gwendal-crequer-75232014a/"
+      url: "https://www.linkedin.com/in/gwendal-crequer?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
 
 
 # Reading Files

@@ -1,5 +1,5 @@
 ---
-permalink: /Resume/
+permalink: /resume/
 author_profile: true
 classes: wide
 title: "Resume"
@@ -10,82 +10,50 @@ header:
     - label: "<i class='fas fa-download'></i> My CV"
       url: "/docs/quick-start-guide/"
 
-layouts_gallery:
-  - url: /assets/images/mm-layout-splash.png
-    image_path: /assets/images/mm-layout-splash.png
-    alt: "splash layout example"
-  - url: /assets/images/mm-layout-single-meta.png
-    image_path: /assets/images/mm-layout-single-meta.png
-    alt: "single layout with comments and related posts"
-  - url: /assets/images/mm-layout-archive.png
-    image_path: /assets/images/mm-layout-archive.png
-    alt: "archive layout example"
-last_modified_at: 2022-05-27T11:59:26-04:00
+JRL:
+  - image_path: /assets/images/equi_color.webp
+    excerpt: " <h2>Joint Robotics Laboratory</h2>
+    *AIST, Tsukuba, Japan* <br/> 
+    **Research assistant in visual servoing** : impact of robot's self-view in visual servoing using 360° cameras, and impact of masking strategies on the performances"
+
+CMMS:
+  - image_path: /assets/images/USA.webp
+    excerpt: "<h2>Colorado State University</h2>
+    *Fort-Collins, CO, USA* <br/>
+    **Intern in image processing** : Design and prototype of a laser-scanner for real-time width estimation during a innovative 3D-printing process."
+
+ENSTA_prof:
+  - image_path: /assets/images/teaser.webp
+    excerpt: "<h2>ENSTA Bretagne</h2>
+    *Brest, France* <br/>
+    **Sessional lecturer** : Teaching programming for international MSc students, from loops to *Object-Oriented Programming*. Objective : giving them prerequisites for robotic programming."
+
+ENSTA_stage:
+  - image_path: /assets/images/teaser.webp
+    excerpt: "<h2>ENSTA Bretagne</h2>
+    *Brest, France* <br/>
+    **Intern in visual state-estimation** : real-time underwater pose-estimation using buoys recognition and interval-based inversion of camera equations.
+    "
+
+CNAM:
+  - image_path: /assets/images/teaser.webp
+    excerpt: "<h2>Conservatoire National des Arts et Métiers</h2>
+    *Remotely, France*<br/>
+    **Intern in material simulation** : Finite-elements modelling of a Gallic chariot in order to explain its durability and resistance."
+
+
+    
 ---
 
-# Experience
+# <span style="color: #3AAAAF;">Experience
 
 
-![]({{ site.url }}/assets/images/teaser.webp) {: .align-right style="width: 300px"}
-## Joint Robotics Laboratory, CNRS-AIST collaboration
-J'ai été research assistant pour une durée de 5 mois dans ce laboratoire japonais.
+{% include feature_row id="JRL" type="left" caption="equirectangular view from the virutal camera frame." %}
+{% include feature_row id="CMMS" type="right" %}
+{% include feature_row id="ENSTA_prof" type="left" %}
+{% include feature_row id="ENSTA_stage" type="right" %}
+{% include feature_row id="CNAM" type="left" %}
+
+# <span style="color: #3AAAAF;">Education
 
 
-Minimal Mistakes is a flexible two-column Jekyll theme. Perfect for hosting your personal site, blog, or portfolio on GitHub or self-hosting on your own server. As the name implies --- styling is purposely minimalistic to be enhanced and customized by you :smile:.
-
-{% include gallery id="layouts_gallery" caption="Examples of included layouts `splash`, `single`, and `archive`." %}
-
-[Install the Theme]({{ "/docs/quick-start-guide/" | relative_url }}){: .btn .btn--success .btn--large}
-
-## Notable Features
-
-- Bundled as a "theme gem" for easier install/upgrading.
-- Compatible with GitHub Pages.
-- Support for Jekyll's built-in Sass/SCSS preprocessor.
-- Nine different skins (color variations).
-- Several responsive layout options (single, archive index, search, splash, and paginated home page).
-- Optimized for search engines with support for [Twitter Cards](https://dev.twitter.com/cards/overview) and [Open Graph](http://ogp.me/) data
-- Optional [header images](https://mmistakes.github.io/minimal-mistakes/docs/layouts/#headers), [custom sidebars](https://mmistakes.github.io/minimal-mistakes/docs/layouts/#sidebars), [table of contents](https://mmistakes.github.io/minimal-mistakes/docs/helpers/#table-of-contents), [galleries](https://mmistakes.github.io/minimal-mistakes/docs/helpers/#gallery), related posts, [breadcrumb links](https://mmistakes.github.io/minimal-mistakes/docs/configuration/#breadcrumb-navigation-beta), [navigation lists](https://mmistakes.github.io/minimal-mistakes/docs/helpers/#navigation-list), and more.
-- Commenting support (powered by [Disqus](https://disqus.com/), [Facebook](https://developers.facebook.com/docs/plugins/comments), [Discourse](https://www.discourse.org/), [utterances](https://utteranc.es/), [giscus](https://giscus.app/), static-based via [Staticman v1 and v2](https://staticman.net/), and custom).
-- [Google Analytics](https://www.google.com/analytics/) support.
-- UI localized text in English (default), Arabic (عربي), Brazilian Portuguese (Português brasileiro), Bulgarian, Catalan, Chinese, Czech, Danish, Dutch, Finnish, French (Français), German (Deutsch), Greek, Hebrew, Hindi (हिंदी), Hungarian, Indonesian, Irish (Gaeilge), Italian (Italiano), Japanese, Kiswahili, Korean, Malayalam, Myanmar (Burmese), Nepali (Nepalese), Norwegian (Norsk), Persian (فارسی), Polish, Punjabi (ਪੰਜਾਬੀ), Romanian, Russian, Slovak, Spanish (Español), Swedish, Thai, Turkish (Türkçe), and Vietnamese.
-
-## Demo Pages
-
-| Name                                        | Description                                           |
-| ------------------------------------------- | ----------------------------------------------------- |
-| [Post with Header Image][header-image-post] | A post with a large header image. |
-| [HTML Tags and Formatting Post][html-tags-post] | A variety of common markup showing how the theme styles them. |
-| [Syntax Highlighting Post][syntax-post] | Post displaying highlighted code. |
-| [Post with a Gallery][gallery-post] | A post showing several images wrapped in `<figure>` elements. |
-| [Sample Collection Page][sample-collection] | Single page from a collection. |
-| [Categories Archive][categories-archive] | Posts grouped by category. |
-| [Tags Archive][tags-archive] | Posts grouped by tag. |
-
-For even more demo pages check the [posts archive][year-archive].
-
----
-
-## Credits
-
-### Icons + Demo Images:
-
-- [The Noun Project](https://thenounproject.com) -- Garrett Knoll, Arthur Shlain, and [tracy tam](https://thenounproject.com/tracytam)
-- [Font Awesome](http://fontawesome.io/)
-- [Unsplash](https://unsplash.com/)
-
-### Other:
-
-- [Jekyll](https://jekyllrb.com/)
-- [jQuery](https://jquery.com/)
-- [Susy](http://susy.oddbird.net/)
-- [Breakpoint](http://breakpoint-sass.com/)
-- [Magnific Popup](http://dimsemenov.com/plugins/magnific-popup/)
-- [FitVids.JS](http://fitvidsjs.com/)
-- Greedy Navigation - [lukejacksonn](https://codepen.io/lukejacksonn/pen/PwmwWV)
-- [jQuery Smooth Scroll](https://github.com/kswedberg/jquery-smooth-scroll)
-- [Lunr](http://lunrjs.com)
-
----
-
-Minimal Mistakes is designed, developed, and maintained by Michael Rose. Just another boring, tattooed, designer from Buffalo New York.
