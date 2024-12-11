@@ -14,7 +14,7 @@ header:
 
 gallery_rob:
   - image_path: "/assets/images/bateau.webp"
-  - image_path: "/assets/images/teaser.webp"
+  - image_path: "/assets/images/foil.webp"
 
 
 gallery_photo:

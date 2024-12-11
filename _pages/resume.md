@@ -56,4 +56,13 @@ CNAM:
 
 # <span style="color: #3AAAAF;">Education
 
+## <span title="Ecole Nationale Supérieure de Techniques Avancées">ENSTA Bretagne <span style="font-weight: normal; font-size: 0.8em;">(Brest, France)</span></span>
+[Engineering degree & MSc. in mobile robotics  <i class="fa fa-external-link" style="font-size: 0.9em;"></i>](https://www.ensta-bretagne.fr/system/files/2023-08/Plaquette_master_rob_2023.pdf)
+
+## <span title="Ecole Normale Supérieure">ENS of Rennes <span style="font-weight: normal; font-size: 0.8em;">(Rennes, France)</span></span>
+[Magister in Mechatronics  <i class="fa fa-external-link" style="font-size: 0.9em;"></i>](https://mecatronique.ens-rennes.fr/medias/fichier/2024-mktro-gb-web_1732786436068-pdf)
+  * MSc. in Engineering Sciences (spec. Teaching of Computer Engineering),
+  * BSc. in Engineering Sciences,
+  * BSc. in Electrical Engineering,
+  * Additionnal training & projects.
 
