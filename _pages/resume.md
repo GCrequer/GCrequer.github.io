@@ -61,8 +61,8 @@ CNAM:
 
 ## <span title="Ecole Normale Supérieure">ENS of Rennes <span style="font-weight: normal; font-size: 0.8em;">(Rennes, France)</span></span>
 [Magister in Mechatronics  <i class="fa fa-external-link" style="font-size: 0.9em;"></i>](https://mecatronique.ens-rennes.fr/medias/fichier/2024-mktro-gb-web_1732786436068-pdf)
-  * MSc. in Engineering Sciences (spec. Teaching of Computer Engineering),
-  * BSc. in Engineering Sciences,
-  * BSc. in Electrical Engineering,
+  * MSc. in <span title="Engineering sciences and sciences for the Engineer differ in that sciences for the Engineer are more focused on developing and creating concepts that can be used by engineers. (used to create more problems to solve)"><span style="color: #4F73AB;">Sciences for the Engineer</span></span> ("SPI", spec. Teaching of Computer Engineering),
+  * BSc. in <span title="Engineering sciences and sciences for the Engineer differ in that sciences for the Engineer are more focused on developing and creating concepts that can be used by engineers."><span style="color: #4F73AB;">Sciences for the Engineer</span></span> ("SPI"),
+  * BSc. in Electrical Engineering, Energy and Automation,
   * Additionnal training & projects.
 
