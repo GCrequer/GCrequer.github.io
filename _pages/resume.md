@@ -57,12 +57,12 @@ CNAM:
 # <span style="color: #3AAAAF;">Education
 
 ## <span title="Ecole Nationale Supérieure de Techniques Avancées">ENSTA Bretagne <span style="font-weight: normal; font-size: 0.8em;">(Brest, France)</span></span>
-[Engineering degree & MSc. in mobile robotics  <i class="fa fa-external-link" style="font-size: 0.9em;"></i>](https://www.ensta-bretagne.fr/system/files/2023-08/Plaquette_master_rob_2023.pdf)
+[Engineering degree in mobile robotics + MSc. <span title="Engineering of Complex Systems - Dynamic Systems and Signal"><span style="color:#4F73AB;">ISC - SDS</span></span>  <i class="fa fa-external-link" style="font-size: 0.9em;"></i>](https://www.ensta-bretagne.fr/system/files/2023-08/Plaquette_master_rob_2023.pdf)
 
 ## <span title="Ecole Normale Supérieure">ENS of Rennes <span style="font-weight: normal; font-size: 0.8em;">(Rennes, France)</span></span>
 [Magister in Mechatronics  <i class="fa fa-external-link" style="font-size: 0.9em;"></i>](https://mecatronique.ens-rennes.fr/medias/fichier/2024-mktro-gb-web_1732786436068-pdf)
-  * MSc. in <span title="Engineering sciences and sciences for the Engineer differ in that sciences for the Engineer are more focused on developing and creating concepts that can be used by engineers. (used to create more problems to solve)"><span style="color: #4F73AB;">Sciences for the Engineer</span></span> ("SPI", spec. Teaching of Computer Engineering),
-  * BSc. in <span title="Engineering sciences and sciences for the Engineer differ in that sciences for the Engineer are more focused on developing and creating concepts that can be used by engineers."><span style="color: #4F73AB;">Sciences for the Engineer</span></span> ("SPI"),
+  * MSc. in Engineering Sciences (<span title="Engineering of Complex Systems"><span style="color:#4F73AB;">ISC</span></span>, Teaching track, spec. Computer Engineering),
+  * BSc. in <span title="Engineering sciences and sciences for the Engineer differ in that sciences for the Engineer are more focused on developing and creating concepts that can be used by engineers."><span style="color: #4F73AB;">Sciences for the Engineer</span></span> (<span title="Engineering of Complex Systems - Sciences for the Engineer"><span style="color:#4F73AB;">ISC - SPI</span></span>),
   * BSc. in Electrical Engineering, Energy and Automation,
   * Additionnal training & projects.
 

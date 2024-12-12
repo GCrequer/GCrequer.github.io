@@ -40,9 +40,9 @@ In robotics, I aim to balance control, electronics, mechanics, and technology to
 
 ## ⛵ Marine Robotics: Building Smart Systems, Smartly
 
-What excites me most about robotics is transdisciplinarity: designing mechatronic and algorithmic architecture in symbiosis.
+What excites me most about robotics is transdisciplinarity: designing mechatronic and algorithmic architecture in synergie.
 
-I’m all about symbiosis at every level :
+I’m all about synergie at every level :
 
 * Interdisciplinary, for instance, considering propulsion systems based on different actuation principles (swimming by soft robotics, piezoelectric deformation...),
 * Inter-algorithmic, like exploring less hierarchical control methods, where planning and navigation are co-constrained (dynamic planning), or trajectory generation that’s co-constrained with the guidance law (I ask myself a lot of questions about the operations possible with sliding surfaces).
