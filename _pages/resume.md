@@ -57,7 +57,7 @@ CNAM:
 # <span style="color: #3AAAAF;">Education
 
 ## <span title="Ecole Nationale Supérieure de Techniques Avancées">ENSTA Bretagne <span style="font-weight: normal; font-size: 0.8em;">(Brest, France)</span></span>
-[Engineering degree in mobile robotics + MSc. <span title="Engineering of Complex Systems - Dynamic Systems and Signal"><span style="color:#4F73AB;">ISC - SDS</span></span>  <i class="fa fa-external-link" style="font-size: 0.9em;"></i>](https://www.ensta-bretagne.fr/system/files/2023-08/Plaquette_master_rob_2023.pdf)
+[Engineering degree in mobile robotics + MSc. <span title="Engineering of Complex Systems - Dynamic Systems and Signal"><span style="color:#4F73AB;">ISC - SDS</span></span>  <i class="fa fa-external-link" style="font-size: 0.9em;"></i>](description_ENSTA_2024.pdf)
 
 ## <span title="Ecole Normale Supérieure">ENS of Rennes <span style="font-weight: normal; font-size: 0.8em;">(Rennes, France)</span></span>
 [Magister in Mechatronics  <i class="fa fa-external-link" style="font-size: 0.9em;"></i>](https://mecatronique.ens-rennes.fr/medias/fichier/2024-mktro-gb-web_1732786436068-pdf)
